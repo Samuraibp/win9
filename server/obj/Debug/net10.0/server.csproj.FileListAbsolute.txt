@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WinFormsApp9\server\bin\Debug\net10.0\server.exe
+C:\Users\User\source\repos\WinFormsApp9\server\bin\Debug\net10.0\server.deps.json
+C:\Users\User\source\repos\WinFormsApp9\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\User\source\repos\WinFormsApp9\server\bin\Debug\net10.0\server.dll
+C:\Users\User\source\repos\WinFormsApp9\server\bin\Debug\net10.0\server.pdb
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.dll
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.pdb
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\ref\server.dll
+C:\Users\User\source\repos\WinFormsApp9\server\obj\Debug\net10.0\server.csproj.Up2Date

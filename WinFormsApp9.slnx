@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="server/server.csproj" />
+  <Project Path="WinFormsApp9/WinFormsApp9.csproj" />
+</Solution>
