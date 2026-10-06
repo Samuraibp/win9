@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WinFormsApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1D54EC-7CA0-857C-E574-8C4E7DF198DF}|WinFormsApp9\\WinFormsApp9.csproj|c:\\users\\user\\source\\repos\\winformsapp9\\winformsapp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E1D54EC-7CA0-857C-E574-8C4E7DF198DF}|WinFormsApp9\\WinFormsApp9.csproj|solutionrelative:winformsapp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp9\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:31:09.299Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
